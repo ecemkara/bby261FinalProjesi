@@ -1,0 +1,18 @@
+Grup üyeleri:
+Ecem Kara
+Ömer Küçükaçar
+
+Proje Konusu:
+Sicaklik Sensörü
+bu sensör içerisinde  sıcaklıkta sicaklik > 30 kırmızı ampül yancak ve buzzer ötecek 20 < sicaklik < 28 sıcaklıkta sarı ampül yanacak 0< sicaklik <= 20 sıcaklıkta ise yeşil ampül yanacak yanan ampüller 1 saniye aralıklarla yanacak  aynı zamanda sıcaklık değeri lcd ekranda gösterilecek.
+
+
+
+Gerekli Malzemeler:
+
+Arduino UNO
+Breadboard
+1 adet 10k? NTC
+2 adet 10k? Direnç
+Ýki ucu erkek jumper kablo
+1 adet LED
