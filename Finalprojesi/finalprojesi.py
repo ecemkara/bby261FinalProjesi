@@ -17,8 +17,8 @@ plt.figure(figsize=[10,5])
 
 
 plt.figure(figsize=(10,10))
-for i in range(50):
-    plt.subplot(5,5,i+1)
+for i in range(16):
+    plt.subplot(4,4,i+1)
     plt.xticks([])
     plt.yticks([])
     plt.grid(False)
